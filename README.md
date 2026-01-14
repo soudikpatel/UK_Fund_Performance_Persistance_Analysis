@@ -1,6 +1,6 @@
 # UK Fund Performance Analysis
 
-### [Link to Live Tableau Dashboard](https://public.tableau.com/views/PerformancePersistenceofUKEquityFunds/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Link to Tableau Dashboard](https://public.tableau.com/views/PerformancePersistenceofUKEquityFunds/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Description
 
@@ -36,4 +36,7 @@ The project followed a two-stage process: first, data processing in Python, and 
         2.  An **Average Monthly Return Bar Chart** to summarize the performance of each group.
         3.  A **Performance Stickiness Heatmap** to analyze the transition probabilities between ranks.
         4.  A **Fund Distribution Chart** to drill down into the behavior of individual funds.
-    - These visualizations were arranged into the final dashboard, which is linked above.
+    - These visualizations were arranged into the [final dashboard](https://public.tableau.com/views/PerformancePersistenceofUKEquityFunds/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+      
+<br><img width="1000" height="1032" alt="image" src="https://github.com/user-attachments/assets/2452f250-291b-4eab-9959-e0f1774705ed" />
+
